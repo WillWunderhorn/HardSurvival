@@ -25,6 +25,6 @@ features:
 ## Installation
 
 1. If you haven't done so already, install MelonLoader by downloading and running [MelonLoader.Installer.exe](https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe)
-2. Download the latest version of `HarderSurvival.dll` from the [releases page](https://github.com/WillWunderhorn/HarderSurvival/releases/tag/Latest)
+2. Download the latest version of `HarderSurvival.dll` from the [releases page](https://github.com/WillWunderhorn/HardSurvival/releases/tag/Latest)
 3. Move `HarderSurvival.dll` into the Mods folder in your TLD install directory
 
